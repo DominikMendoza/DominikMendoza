@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![latex](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/latex.png)
 
 ## Social 
-[![instagram](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/instagram.png)](https://www.instagram.com/endlessdominik/)
+[![instagram](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/instagram.png)](https://www.instagram.com/endlessdominik/)[  ]
 [![linkedin](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/linkedin.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 [![youtube](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/youtube.png)](https://www.youtube.com/channel/UCdaMJIkV__KbM4p9QdVLFfg)
