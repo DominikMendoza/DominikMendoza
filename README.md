@@ -9,12 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
 ## Langauage 
-<![html5](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/html5.png)
-![javascript](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/js.png)
-![css](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/css3.png)
+![c++](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/c++ph.png)
 ![python](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/python.png)
-![markdown](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/markdown.png)
-![latex](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/latex.png)>
 
 ## Social 
 [![instagram](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/instagram.png)](https://www.instagram.com/z3n.dmr/) 
