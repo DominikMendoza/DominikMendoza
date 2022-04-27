@@ -5,17 +5,16 @@ Programmer, Linux Enthusiast
 Here are some ideas to get you started:
 
 - 🔭 I am learning about web design.
-- 🌱 I’m currently learning bash scripting and lua.
-- 💬 Ask me about Linux, FOSS.
-- 📫 How to reach me: Look down lazzy boy.
+- 🖥️ Learning about building packages.
+- 📫 How to reach me:
 
 ## Langauage 
-![html5](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/html5.png)
+<![html5](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/html5.png)
 ![javascript](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/js.png)
 ![css](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/css3.png)
 ![python](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/python.png)
 ![markdown](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/markdown.png)
-![latex](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/latex.png)
+![latex](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/latex.png)>
 
 ## Social 
 [![instagram](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/instagram.png)](https://www.instagram.com/z3n.dmr/) 
