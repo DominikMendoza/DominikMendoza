@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🖥️ Learning about building packages.
 - 📫 How to reach me:
 
-## Langauage 
+## Langauages 
 ![c++](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/c++.png)
 ![python](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/python.png)
 
