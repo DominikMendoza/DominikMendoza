@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 ## Langauage 
 ![c++](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/c++.png)
 ![python](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/python.png)
-![c#](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/csharp.png)
 
 ## Social 
 [![instagram](https://github.com/DominikMendoza/DominikMendoza/blob/main/imgs/instagram.png)](https://www.instagram.com/z3n.dmr/) 
